@@ -1,6 +1,5 @@
  
- <h1>Hi, I'm Anna 👋 </h1>
- <h2><a href="https://github.com/joshmadakor1">Data Analyst</a>
+ <h1>Hi, I'm Anna 👋 <a href="https://github.com/anna-flytis"> Data Analyst</a></h1>
   
 <h2>👨‍💻 Exel Projects:</h2>
 
@@ -17,8 +16,8 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="anna-flytis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="anna-flytis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/FeelFreeToFlyCa
 [linkedin]: https://www.linkedin.com/in/amariakhina/
