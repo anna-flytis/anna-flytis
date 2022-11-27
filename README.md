@@ -4,15 +4,15 @@
 <h2>👨‍💻 Exel Projects:</h2>
 
 - <b></b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [1](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b></b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 <h2>👨‍💻 Tableu Presentations:</h2>
  - <b></b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [1](https://github.com/joshmadakor1/Algorithms-Practice)
  <h2>👨‍💻 Python Projects:</h2>
  - <b></b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [1](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> Connect with me:</h2>
 
