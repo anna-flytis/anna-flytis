@@ -6,7 +6,7 @@
 - <b></b>
   - [1](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b></b>
-  - [1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 <h2>👨‍💻 Tableu Presentations:</h2>
  - <b></b>
   - [1](https://github.com/joshmadakor1/Algorithms-Practice)
