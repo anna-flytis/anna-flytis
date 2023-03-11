@@ -1,5 +1,5 @@
  
- <h1>Hi, I'm Anna 👋 <a href="https://github.com/anna-flytis"> Data Analyst</a></h1>
+ <h1>Hi, I'm Anna 👋 <a href="https://github.com/anna-flytis">Software Engeneer</a></h1>
   
 <h2>👨‍💻 Exel Projects:</h2>
 
