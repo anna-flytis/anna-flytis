@@ -9,10 +9,10 @@
   - [1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 <h2>👨‍💻  CSS:</h2>
  - <b></b>
-  - [1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [1]()
  <h2>👨‍💻 JavaScript:</h2>
  - <b></b>
-  - [1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [1]()
 
 <h2> Connect with me:</h2>
 
