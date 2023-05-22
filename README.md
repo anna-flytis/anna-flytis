@@ -4,7 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b></b>
-  - [1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [1] Twetter (https://github.com/anna-flytis/tweeter)
 - <b></b>
   - [1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 <h2>👨‍💻  CSS:</h2>
