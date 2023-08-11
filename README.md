@@ -1,18 +1,6 @@
  
- <h1>Hi, I'm Anna 👋 <a href="https://github.com/anna-flytis">Software Engeneer</a></h1>
+ <h1>Hi, I'm Anna 👋 <a href="https://github.com/anna-flytis">Software Engeneer / Data Analyst</a></h1>
   
-<h2>👨‍💻 Projects:</h2>
-
-- <b></b>
-  - [1] Twetter (https://github.com/anna-flytis/tweeter)
-- <b></b>
-  - [1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-<h2>👨‍💻  CSS:</h2>
- - <b></b>
-  - [1]()
- <h2>👨‍💻 JavaScript:</h2>
- - <b></b>
-  - [1]()
 
 <h2> Connect with me:</h2>
 
