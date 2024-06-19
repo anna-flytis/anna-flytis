@@ -1,7 +1,6 @@
  
  <h1>Hi, I'm Anna 👋 <a href="https://github.com/anna-flytis">Full Stack Developer</a></h1>
   
-
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="anna-flytis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
